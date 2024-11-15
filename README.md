@@ -123,9 +123,11 @@ Step-by-Step Instructions:
  
    ![img8](./Assets/Anaconda_8.png)
    
-   If some packages fail to install, restart the kernel and repeat steps: 8 and 9
+   If some packages fail to install, restart the kernel and repeat steps: 7 and 8
  
    ![img9](./Assets/Anaconda_9.png)
+
+9. **Run the notebook**: Once the setup is complete, you’re ready to run your code. The required packages will be installed, and you can proceed with the lab session.
    
 #### Instruction 2: Create environment and install the requirements through the terminal.
 
@@ -166,6 +168,8 @@ If you prefer using the terminal to manage your environment:
 9. **Import all packages**
 
    ![img18](./Assets/Anaconda_18.png)
+
+10. **Run the notebook**: Once the setup is complete, you’re ready to run your code. The required packages will be installed, and you can proceed with the lab session.
 
 ### B. Setting up with PIP (Python Package Manager)
 
