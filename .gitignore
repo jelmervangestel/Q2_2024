@@ -9,6 +9,9 @@ node_modules/
 # ignore __pycache__ directory
 __pycache__/
 
+# MACOSX directory
+__MACOSX/
+
 # ignore scratch.ipynb files
 scratch.ipynb
 
