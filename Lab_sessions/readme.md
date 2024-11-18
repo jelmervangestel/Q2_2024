@@ -5,6 +5,7 @@ In total, there are 6 lab sessions:<br>
 <br>
 Since the lab sessions built forth on each other, it is strongly recommended to complete them in order. Worked out solutions will be made available for each lab session at the start of the day of the following lab session. See the overview below for the release dates.<br>
 <br>
+
 | Date       | Lab session | Date answers made availabe |
 |------      |-------------|---------   |
 | 11/11/2024 | Lab_01A,_1B | 22/11/2024 |
