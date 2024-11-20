@@ -1,5 +1,7 @@
 # SEN122A- Statistical Analysis of Choice Behaviour 2024
 
+`Reminder: don't forget to enrol yourself for Partial exam 1 (04/12/2024) via OSIRIS!`
+
 ## 1. Introduction
 
 Welcome to the *Choice behaviour modelling* section of the SEN112A course repository. In this repository, you will find Jupyter notebooks for the lab sessions, step-by-step instructions for setting up your Python environment, and a discussion forum where you can ask questions related to the course content.
