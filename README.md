@@ -1,6 +1,6 @@
 # SEN122A- Statistical Analysis of Choice Behaviour 2024
 
-<span style="color:firebrick">**Reminder: don't forget to enrol yourself for Partial exam 1 (04/12/2024) via OSIRIS!**</span>
+🔴 **REMINDER: Don't forget to enrol yourself for Partial exam 1 (04/12/2024) via OSIRIS!**
 
 ## 1. Introduction
 
