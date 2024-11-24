@@ -7,6 +7,7 @@ Therefore, we will provide you with the following files during the exam:
 - Chi-square table (pdf)
 - Formula cheat sheet (pdf)
 <br><br>
+
 The main focus of the exam lies on weeks 1 and 2 (MNL + Mixed Logit). You will not be asked to train a data-driven choice model (week 3). However, conceptual questions about week 3 can be part of the exam. 
 <br><br>
 Note that the HTML file is not displaying on the GitHub website. Download the file and open it with a browser (or look at the pdf) to see it.
