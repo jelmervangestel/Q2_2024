@@ -1,9 +1,12 @@
 Partial exam 1 aims to assess your modelling skills, not your Python syntax knowledge. <br>
-Therefore, we will provide you the following files during the exam:
-- All Lab session notebooks, with the correct answers  (in html format)
-- All tutorial notebooks (in html format)
+Therefore, we will provide you with the following files during the exam:
+- All Lab session notebooks with the correct answers provided by us (in HTML format)
+- All tutorial notebooks (in HTML format)
 - Chi-square table (pdf)
-- Formula cheat-sheet (pdf)
-<br><br>
-
-Note that the HTML file does not display on GitHub website. To see it, download the file and open it with a browser (or look at the pdf).
+- Formula cheat sheet (pdf)
+<be>
+The exam will take place in one of TUD’s computer halls, and you will complete it on a university computer. You cannot access the internet, ChatGPT or any other online resource. You can access Jupyter Notebook, Python, Excel, and Notepad in the digital exam environment.
+<be>
+The main focus of the exam lies on weeks 1 and 2 (MNL + Mixed Logit). You will not be asked to train a data-driven choice model (week 3). However, conceptual questions about week 3 can be part of the exam. 
+<br>
+Note that the HTML file is not displaying on the GitHub website. Download the file and open it with a browser (or look at the pdf) to see it.
